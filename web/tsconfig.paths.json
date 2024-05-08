@@ -1,0 +1,31 @@
+{
+    "compilerOptions": {
+        "baseUrl": ".",
+        "paths": {
+            "@shared-components/*": [
+                "./src/components/index"
+            ],
+            "@app-pages/*": [
+                "./src/pages/index"
+            ],
+            "@assets/*": [
+                "./src/assets/*"
+            ],
+            "@strings/*": [
+                "./src/utils/strings"
+            ],
+            "@utils/*": [
+                "./src/utils/*"
+            ],
+            "@hooks/*": [
+                "./src/hooks/index"
+            ],
+            "@redux/*": [
+                "./src/redux/*"
+            ],
+            "@bo/*": [
+                "./src/*"
+            ]
+        }
+    }
+}

@@ -1,0 +1,12 @@
+{
+  "react-native": {
+    "crashlytics_auto_collection_enabled": true,
+    "crashlytics_debug_enabled": true,
+    "crashlytics_ndk_enabled": false,
+    "crashlytics_is_error_generation_on_js_crash_enabled": true,
+    "messaging_android_notification_channel_id": "campaign_push_channel",
+    "ml_vision_barcode_model": true,
+    "android_task_executor_maximum_pool_size": 10,
+    "android_task_executor_keep_alive_seconds": 3
+  }
+}

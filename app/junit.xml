@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="1" failures="1" errors="0" time="7.78">
+  <testsuite name="unit tests for ReceivingAccount component" errors="0" failures="1" skipped="0" timestamp="2024-03-20T08:15:44" time="7.514" tests="1">
+    <testcase classname="unit tests for ReceivingAccount component renders correctly render with accounts" name="unit tests for ReceivingAccount component renders correctly render with accounts" time="0.137">
+      <failure>TypeError: (0 , _depositTransfer.setRecipient) is not a function
+    at /Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/src/screens/Payment/Methods/OwnAccountTransfer/components/ReceivingAccount.component.tsx:30:26
+    at commitHookEffectListMount (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/react-test-renderer/cjs/react-test-renderer.development.js:12999:26)
+    at commitPassiveMountOnFiber (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/react-test-renderer/cjs/react-test-renderer.development.js:14422:11)
+    at commitPassiveMountEffects_complete (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/react-test-renderer/cjs/react-test-renderer.development.js:14382:9)
+    at commitPassiveMountEffects_begin (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/react-test-renderer/cjs/react-test-renderer.development.js:14369:7)
+    at commitPassiveMountEffects (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/react-test-renderer/cjs/react-test-renderer.development.js:14357:3)
+    at flushPassiveEffectsImpl (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/react-test-renderer/cjs/react-test-renderer.development.js:16248:3)
+    at flushPassiveEffects (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/react-test-renderer/cjs/react-test-renderer.development.js:16197:14)
+    at /Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/react-test-renderer/cjs/react-test-renderer.development.js:16012:9
+    at flushActQueue (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/react/cjs/react.development.js:2667:24)
+    at Object.act (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/react/cjs/react.development.js:2521:11)
+    at act (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/@testing-library/react-native/src/render-act.ts:14:21)
+    at renderInternal (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/@testing-library/react-native/src/render.tsx:62:33)
+    at renderInternal (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/@testing-library/react-native/src/render.tsx:32:10)
+    at renderWrapper (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/src/screens/Payment/Methods/OwnAccountTransfer/components/__tests__/ReceivingAccount.component.test.tsx:56:18)
+    at Object.renderWrapper (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/src/screens/Payment/Methods/OwnAccountTransfer/components/__tests__/ReceivingAccount.component.test.tsx:69:27)
+    at Promise.then.completed (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/jest-circus/build/utils.js:298:28)
+    at new Promise (&lt;anonymous&gt;)
+    at callAsyncCircusFn (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/jest-circus/build/utils.js:231:10)
+    at _callCircusTest (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/jest-circus/build/run.js:316:40)
+    at processTicksAndRejections (node:internal/process/task_queues:96:5)
+    at _runTest (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/jest-circus/build/run.js:252:3)
+    at _runTestsForDescribeBlock (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/jest-circus/build/run.js:126:9)
+    at _runTestsForDescribeBlock (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/jest-circus/build/run.js:121:9)
+    at run (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/jest-circus/build/run.js:71:3)
+    at runAndTransformResultsToJestFormat (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapterInit.js:122:21)
+    at jestAdapter (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/jest-circus/build/legacy-code-todo-rewrite/jestAdapter.js:79:19)
+    at runTestInternal (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/jest-runner/build/runTest.js:367:16)
+    at runTest (/Users/malin.chhan/Documents/RHB/1.Apps/New-repo/robotech-repo-develop====/cdrb-flow-app/node_modules/jest-runner/build/runTest.js:444:34)</failure>
+    </testcase>
+  </testsuite>
+</testsuites>

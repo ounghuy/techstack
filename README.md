@@ -1,2 +1,0 @@
-# techstack
-tech stack 
