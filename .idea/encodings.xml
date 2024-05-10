@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/microservices/aml/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/app1/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/app10/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/app11/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/app12/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/app13/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/app14/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/app15/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/app16/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/app2/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/app3/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/app4/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/app5/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/app6/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/app7/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/app9/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/auditlogging/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/bakong/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/boauth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/boworkflow/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/configuration/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/contenthub/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/corebankingfinancialclient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/corebankingnonfinancialclient/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/dynamiclink/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/emailnotification/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/favouritepayee/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/gamification/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/location/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/notificationtemplate/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/oaoorchestrator/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/paygo/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/points/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/profile/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/pushnotification/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/referral/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/reporting/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/rewards/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/scheduler/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/smsnotification/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/microservices/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

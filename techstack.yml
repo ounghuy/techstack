@@ -1,0 +1,2514 @@
+repo_name: ounghuy/techstack
+report_id: cca269e2fc93ef78d2c26160747cacdd
+version: 0.1
+repo_type: Public
+timestamp: '2024-05-08T08:05:48+00:00'
+requested_by: ounghuy9257
+provider: github
+branch: main
+detected_tools_count: 176
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ounghuy/techstack
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/ounghuy/techstack
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/ounghuy/techstack
+  detection_source: Repo Metadata
+- name: DraftJS
+  description: A framework for building rich text editors
+  website_url: https://draftjs.org
+  version: 0.11.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/5388/9xvwNLlR_400x400.jpg
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Material-UI
+  description: Material UI is a library of React UI components that implements Google's
+    Material Design.
+  website_url: https://github.com/mui/material-ui
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/1904/default_44d81cb9fadbc3688b7e91a6d5217d0ea5358b57.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/package.json
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/package.json
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: QueryDSL
+  description: Unified queries for Java
+  website_url: http://www.querydsl.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/3881/da8da0c0e6dfbfc596f787ade49381a6_400x400.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app3/pom.xml
+  detection_source: microservices/app3/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: React Native
+  description: A framework for building native apps with React
+  website_url: http://facebook.github.io/
+  version: 0.72.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/2699/KoK6gHzp.jpg
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 6.20.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.2.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/package.json
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Spring Framework
+  description: An application framework and inversion of control container for the
+    Java platform
+  website_url: https://spring.io/projects/spring-framework
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/2006/spring-framework-project-logo.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: guava
+  description: Google Core Libraries for Java 6+
+  website_url: https://github.com/google/guava
+  version: '31.1'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Java Tools
+  image_url: https://img.stackshare.io/service/2970/wBjKn0ol.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 5.3.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Amazon S3
+  description: Store and retrieve any amount of data, at any time, from anywhere on
+    the web
+  website_url: http://aws.amazon.com/s3
+  open_source: false
+  hosted_saas: true
+  category: Data Stores
+  sub_category: Cloud Storage
+  image_url: https://img.stackshare.io/service/25/amazon-s3.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: MongoDB
+  description: The database for giant ideas
+  website_url: http://www.mongodb.com/
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1030/leaf-360x360.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app3/pom.xml
+  detection_source: microservices/app3/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/pom.xml
+  detection_source: microservices/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Redis
+  description: Open source (BSD licensed), in-memory data structure store
+  website_url: http://redis.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: In-Memory Databases
+  image_url: https://img.stackshare.io/service/1031/default_cbce472cd134adc6688572f999e9122b9657d4ba.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Redux Persist
+  description: A library to persist and rehydrate a redux store
+  website_url: https://github.com/rt2zz/redux-persist
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/6740/no-img-open-source.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Spring Data
+  description: Provides a consistent approach to data access – relational, non-relational,
+    map-reduce, and beyond
+  website_url: https://spring.io/projects/spring-data
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/7624/IG6D4Ro2_400x400.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.23.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/babel.config.js
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Detox
+  description: Gray box end-to-end testing and automation library for mobile apps
+  website_url: https://github.com/wix/detox
+  version: 18.23.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/8187/MfRcYRSi_400x400.jpg
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/package.json
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ounghuy/techstack
+  detection_source: Repo Metadata
+- name: JUnit
+  description: A programmer-oriented testing framework for Java
+  website_url: http://junit.org/
+  version: '4.13'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/2020/874086.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 29.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Log4j
+  description: A Java-based logging utility
+  website_url: https://logging.apache.org/log4j/2.x/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/nginx/nginx.conf
+  detection_source: web/nginx/nginx.conf
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.8.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: RubyGems
+  description: Easily download, install, and use ruby software packages on your system
+  website_url: https://rubygems.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/12795/5jL6-BA5_400x400.jpeg
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/Gemfile
+  detection_source: app/Gemfile
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Scalr
+  description: Scalr is a remote state &amp; operations backend for Terraform with
+    access controls and policy as code
+  website_url: http://scalr.com
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Cloud Management
+  image_url: https://img.stackshare.io/service/222/default_6522a9e0a115f2414dbf9653e22087a2ec20e2a2.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.89.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/yarn.lock
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: fastlane
+  description: Connect all iOS deployment tools into one streamlined workflow
+  website_url: https://fastlane.tools/
+  version: 2.216.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Mobile Continuous Integration
+  image_url: https://img.stackshare.io/service/2383/11098337.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/Gemfile.lock
+  detection_source: app/Gemfile
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/package.json
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Buffer
+  description: The easiest way to schedule tweets, Facebook posts and more
+  website_url: https://bufferapp.com/
+  open_source: false
+  hosted_saas: true
+  category: Support, Sales, and Marketing
+  sub_category: Social Media Tools
+  image_url: https://img.stackshare.io/service/825/hnc3q-7x.jpg
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/package.json
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Dataform
+  description: A framework for managing SQL based data operations.
+  website_url: https://dataform.co/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Analytics
+  sub_category: Business Intelligence
+  image_url: https://img.stackshare.io/service/11236/Group_22__3_.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs-eai/pom.xml
+  detection_source: libs-eai/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Stream
+  description: Build scalable feeds, activity streams &amp; chat in a few hours instead
+    of months.
+  website_url: https://getstream.io/
+  open_source: false
+  hosted_saas: true
+  category: Application Utilities
+  sub_category: Activity Feeds as a Service
+  image_url: https://img.stackshare.io/service/2213/mBSAJI_h_400x400.jpg
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/package.json
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  version: 1.12.1
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/Gemfile.lock
+  detection_source: app/Gemfile
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Formik
+  description: Build forms in React
+  website_url: https://jaredpalmer.com/formik/
+  version: 2.4.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Web Forms
+  image_url: https://img.stackshare.io/service/8846/preview.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Lodash
+  description: A JavaScript utility library
+  website_url: https://lodash.com
+  version: 4.17.21
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/2438/lodash.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Lottie
+  description: Easily add high-quality animation to any native app (by Airbnb)
+  website_url: http://airbnb.design/lottie/
+  version: 3.4.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Mobile Prototyping & Interaction Design Tools
+  image_url: https://img.stackshare.io/service/6445/lottie.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Moment.js
+  description: A JavaScript date library for parsing, validating, manipulating, and
+    formatting dates
+  website_url: http://momentjs.com/
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/ounghuy/techstack
+  detection_source: Repo Metadata
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 0.27.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: date-fns
+  description: Modern JavaScript date utility library
+  website_url: https://date-fns.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/10865/default_5551fb8853689f607a2bc0d5a09355d5a3d52bf0.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/package.json
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/package.json
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: yup
+  website_url: https://github.com/jquense/yup
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/10756/339286.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/package.json
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: zxcvbn
+  website_url: https://github.com/dropbox/zxcvbn
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/7797/559357.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/package.json
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: crypto-js
+  description: JavaScript library of crypto standards
+  package_url: https://www.npmjs.com/crypto-js
+  version: 3.1.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16283/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+  vulnerabilities:
+  - name: crypto-js PBKDF2 1,000 times weaker than specified in 1993 and 1.3M times
+      weaker than current standard
+    cve_id: CVE-2023-46233
+    cve_url: https://github.com/advisories/GHSA-xwcq-pm8m-c4vf
+    detected_date: Oct 26
+    severity: critical
+    first_patched: 4.2.0
+  - name: crypto-js uses insecure random numbers
+    cve_id: CVE-2020-36732
+    cve_url: https://github.com/advisories/GHSA-3w3w-pxmm-2w2j
+    detected_date: Jun 14
+    severity: moderate
+    first_patched: 3.2.1
+- name: xlsx
+  description: SheetJS Spreadsheet data parser and writer
+  package_url: https://www.npmjs.com/xlsx
+  version: 0.18.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16781/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+  vulnerabilities:
+  - name: SheetJS Regular Expression Denial of Service (ReDoS)
+    cve_id: CVE-2024-22363
+    cve_url: https://github.com/advisories/GHSA-5pgg-2g8v-p4x9
+    detected_date: Apr 9
+    severity: high
+    first_patched: 0.20.2
+  - name: Prototype Pollution in sheetJS
+    cve_id: CVE-2023-30533
+    cve_url: https://github.com/advisories/GHSA-4r6h-8v6p-xvw6
+    detected_date: Apr 25
+    severity: high
+    first_patched: 0.19.3
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.23.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.23.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@babel/runtime"
+  description: Babel's modular runtime helpers
+  package_url: https://www.npmjs.com/@babel/runtime
+  version: 7.23.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15934/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@emotion/styled"
+  description: Styled API for emotion
+  package_url: https://www.npmjs.com/@emotion/styled
+  version: 11.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16702/default_4b738bf1758d38dddd276589bbea47fca5a990df.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@material-ui/core"
+  description: React components that implement Google's Material Design
+  package_url: https://www.npmjs.com/@material-ui/core
+  version: 4.12.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16271/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.17.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 13.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@testing-library/react-hooks"
+  description: Simple and complete React hooks testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react-hooks
+  version: 8.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17877/default_d41d3b5a213e129d6ea411e77eecb13f54b6aea5.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@types/crypto-js"
+  description: TypeScript definitions for crypto-js
+  package_url: https://www.npmjs.com/@types/crypto-js
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17916/default_ddcb3fb8ca8ccaba871e88d87465cd31ce73df71.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@types/faker"
+  description: TypeScript definitions for faker
+  package_url: https://www.npmjs.com/@types/faker
+  version: 5.5.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17400/default_68a60246a766655932541acc39422873bd51360a.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 29.5.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@types/jsonwebtoken"
+  description: TypeScript definitions for jsonwebtoken
+  package_url: https://www.npmjs.com/@types/jsonwebtoken
+  version: 9.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16959/default_caea01ce44a5fd1bb200d8fc0f8f2a1695b4e569.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@types/lodash"
+  description: TypeScript definitions for Lo-Dash
+  package_url: https://www.npmjs.com/@types/lodash
+  version: 4.14.202
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15945/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 20.10.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.2.48
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.2.17
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@types/react-native"
+  description: TypeScript definitions for react-native
+  package_url: https://www.npmjs.com/@types/react-native
+  version: 0.72.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16569/default_682ffbfa52bb1873b212151cffed5d464d6efdfb.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@types/react-redux"
+  description: TypeScript definitions for react-redux
+  package_url: https://www.npmjs.com/@types/react-redux
+  version: 7.1.33
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16687/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@types/react-test-renderer"
+  description: TypeScript definitions for react-test-renderer
+  package_url: https://www.npmjs.com/@types/react-test-renderer
+  version: 18.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16593/default_ebd83b4f0415be108d977ea72558b13fd7c5283d.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@types/styled-components"
+  description: TypeScript definitions for styled-components
+  package_url: https://www.npmjs.com/@types/styled-components
+  version: 5.1.32
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16494/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@types/uuid"
+  description: TypeScript definitions for uuid
+  package_url: https://www.npmjs.com/@types/uuid
+  version: 8.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16257/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@types/webpack-env"
+  description: TypeScript definitions for webpack
+  package_url: https://www.npmjs.com/@types/webpack-env
+  version: 1.18.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16614/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@types/yup"
+  description: TypeScript definitions for yup
+  package_url: https://www.npmjs.com/@types/yup
+  version: 0.29.14
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18670/default_d9dab6271253d9850df2c233b4312e776e118959.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 4.33.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 4.33.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: axios-mock-adapter
+  description: Axios adapter that allows to easily mock requests
+  package_url: https://www.npmjs.com/axios-mock-adapter
+  version: 1.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17391/default_e9c4b89784d4fe5d59f93b4a54dd8910ea23e5de.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: babel-jest
+  description: Jest plugin to use babel for transformation
+  package_url: https://www.npmjs.com/babel-jest
+  version: 29.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: babel-plugin-lodash
+  description: Modular Lodash builds without the hassle
+  package_url: https://www.npmjs.com/babel-plugin-lodash
+  version: 3.3.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16379/default_c47f6a56d74fae4d4404d77067b2fa35da6f1924.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: babel-plugin-module-resolver
+  description: Module resolver plugin for Babel
+  package_url: https://www.npmjs.com/babel-plugin-module-resolver
+  version: 4.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16171/default_2c2f2c7b016f84c0fad2576cb986cb14a5dbbc2f.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: babel-plugin-transform-remove-console
+  description: Remove all console.* calls
+  package_url: https://www.npmjs.com/babel-plugin-transform-remove-console
+  version: 6.9.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17649/default_894a45ad01fa93ac472db719cb1ef1b89f2924f0.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: compare-versions
+  description: Compare semver version strings to find greater
+  package_url: https://www.npmjs.com/compare-versions
+  version: 4.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18084/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: crypto
+  description: This package is no longer supported and has been deprecated
+  package_url: https://www.npmjs.com/crypto
+  version: 3.12.0
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16387/default_000ae7ee50b56e0ecdb07d3662d4b3fa7f4cbdcc.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: crypto-browserify
+  description: Implementation of crypto for the browser
+  package_url: https://www.npmjs.com/crypto-browserify
+  version: 3.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18055/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: draft-js
+  description: A React framework for building text editors
+  package_url: https://www.npmjs.com/draft-js
+  version: 0.11.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16886/default_39222bc61d2c4e84c2e001fe7b31e7c8bf5f4832.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: emotion-theming
+  description: A CSS-in-JS theming solution, inspired by styled-components
+  package_url: https://www.npmjs.com/emotion-theming
+  version: 11.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17722/default_148ef251371a47f69a7acad9f3b25e2ec2ee4aa4.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: eslint-import-resolver-typescript
+  description: TypeScript .ts .tsx module resolver for `eslint-plugin-import`
+  package_url: https://www.npmjs.com/eslint-import-resolver-typescript
+  version: 2.7.1
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18380/default_d0ba753d47207ad8f04b02befcab81c50f38718f.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.29.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 4.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: faker
+  description: Generate massive amounts of fake contextual data
+  package_url: https://www.npmjs.com/faker
+  version: 5.5.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16327/default_1baba0e6ece19a38adfb211f686c83c781ff703a.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: file-saver
+  description: An HTML5 saveAs
+  package_url: https://www.npmjs.com/file-saver
+  version: 2.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16795/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: husky
+  description: Prevents bad commit or push
+  package_url: https://www.npmjs.com/husky
+  version: 5.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15831/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: intl
+  description: Polyfill the ECMA-402 Intl API
+  package_url: https://www.npmjs.com/intl
+  version: 1.2.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16877/default_2e3ed47575edcaf407097e6171e3d4cb8681a6b3.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: jest-junit
+  description: A jest reporter that generates junit xml files
+  package_url: https://www.npmjs.com/jest-junit
+  version: 12.3.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16536/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: jsonwebtoken
+  description: JSON Web Token implementation
+  package_url: https://www.npmjs.com/jsonwebtoken
+  version: 9.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16155/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: jwt-decode
+  description: Decode JWT tokens, mostly useful for browser applications
+  package_url: https://www.npmjs.com/jwt-decode
+  version: 3.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17395/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: metro-react-native-babel-preset
+  description: Babel preset for React Native applications
+  package_url: https://www.npmjs.com/metro-react-native-babel-preset
+  version: 0.73.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16699/default_5ea3918e441555ef1fd413f4100fe15fe23b366f.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: mockdate
+  description: A JavaScript mock Date object that can be used to change when "now"
+    is
+  package_url: https://www.npmjs.com/mockdate
+  version: 3.0.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17523/default_e5adc22c59a44962e41dfaec51edeb42c083f2f4.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: moment
+  description: Parse, validate, manipulate, and display dates
+  package_url: https://www.npmjs.com/moment
+  version: 2.29.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: moment-timezone
+  description: Parse and display moments in any timezone
+  package_url: https://www.npmjs.com/moment-timezone
+  version: 0.5.43
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16298/default_8b65a873fd3277d73483d6846fa38192391abf23.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: papaparse
+  description: Fast and powerful CSV parser for the browser that supports web workers
+    and streaming large files
+  package_url: https://www.npmjs.com/papaparse
+  version: 5.4.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17945/default_40b5ae806e118a20c1717c75a46652a7358d8b42.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: pretty-quick
+  description: Get Pretty Quick
+  package_url: https://www.npmjs.com/pretty-quick
+  version: 3.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16281/default_f130429ee56156823c8c6e94da6fb7aa07f07ba5.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: process
+  description: Process information for node.js and browsers
+  package_url: https://www.npmjs.com/process
+  version: 0.11.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17866/default_99a4718ac3f2beccb28962b727b0a38010c9b496.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: react-error-overlay
+  description: An overlay for displaying stack frames
+  package_url: https://www.npmjs.com/react-error-overlay
+  version: 6.0.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17066/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: react-native
+  description: A framework for building native apps using React
+  package_url: https://www.npmjs.com/react-native
+  version: 0.72.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16064/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: react-native-svg
+  description: SVG library for react-native
+  package_url: https://www.npmjs.com/react-native-svg
+  version: 12.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18169/default_4ad5899bf99118763f1e1098ab583aaff0340ee8.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 7.2.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 6.20.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: react-table
+  description: Hooks for building lightweight
+  package_url: https://www.npmjs.com/react-table
+  version: 7.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17860/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: react-test-renderer
+  description: React package for snapshot testing
+  package_url: https://www.npmjs.com/react-test-renderer
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: redux-devtools
+  description: Redux DevTools with hot reloading and time travel
+  package_url: https://www.npmjs.com/redux-devtools
+  version: 3.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17051/default_50357c490b205882dcfb608fd3c74b446186c21e.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: redux-logger
+  description: Logger for Redux
+  package_url: https://www.npmjs.com/redux-logger
+  version: 3.0.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16512/default_0a704f5fac0bffcf529c9a61658d0b9ddbf7504e.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: redux-mock-store
+  description: A mock store for testing your redux async action creators and middleware
+  package_url: https://www.npmjs.com/redux-mock-store
+  version: 1.5.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16721/default_848dc5bc612658cea8d631cff0259d9588c28fea.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: ts-jest
+  description: A preprocessor with source maps support to help use TypeScript with
+    Jest
+  package_url: https://www.npmjs.com/ts-jest
+  version: 29.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15864/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: url-parse
+  description: Small footprint URL parser that works seamlessly across Node.js and
+    browser environments
+  package_url: https://www.npmjs.com/url-parse
+  version: 1.5.10
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16942/default_3772c3833c88109974c994fa9f9548ac8ad59f11.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: util
+  description: Node.js's util module for all engines
+  package_url: https://www.npmjs.com/util
+  version: 0.12.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16507/default_55f3303d620c93eecbee69c43373d484f2be492f.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/web/yarn.lock
+  detection_source: web/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: uuid
+  description: RFC4122
+  package_url: https://www.npmjs.com/uuid
+  version: 3.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: yup
+  description: Dead simple Object schema validation
+  package_url: https://www.npmjs.com/yup
+  version: 0.32.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17215/default_37d9ccc57ae4d32e7ff46614e4f8bb2c4ddc7964.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/yarn.lock
+  detection_source: app/package.json
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.apache.logging.log4j:log4j-api
+  description: The Apache Log4j API
+  version: 2.15.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+  vulnerabilities:
+  - name: Incomplete fix for Apache Log4j vulnerability
+    cve_id: CVE-2021-45046
+    cve_url: https://github.com/advisories/GHSA-7rjr-3q55-vv33
+    detected_date: Dec 14
+    severity: critical
+    first_patched: 2.16.0
+  - name: Improper Input Validation and Uncontrolled Recursion in Apache Log4j2
+    cve_id: CVE-2021-45105
+    cve_url: https://github.com/advisories/GHSA-p6xc-xr62-6r2g
+    detected_date: Dec 19
+    severity: high
+    first_patched: 2.17.0
+  - name: Improper Input Validation and Injection in Apache Log4j2
+    cve_id: CVE-2021-44832
+    cve_url: https://github.com/advisories/GHSA-8489-44mv-ggj8
+    detected_date: Jan 5
+    severity: moderate
+    first_patched: 2.17.1
+- name: org.apache.logging.log4j:log4j-core
+  description: The Apache Log4j Implementation
+  version: 2.15.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+  vulnerabilities:
+  - name: Incomplete fix for Apache Log4j vulnerability
+    cve_id: CVE-2021-45046
+    cve_url: https://github.com/advisories/GHSA-7rjr-3q55-vv33
+    detected_date: Dec 14
+    severity: critical
+    first_patched: 2.16.0
+  - name: Apache Log4j2 vulnerable to Improper Input Validation and Uncontrolled Recursion
+    cve_id: CVE-2021-45105
+    cve_url: https://github.com/advisories/GHSA-p6xc-xr62-6r2g
+    detected_date: Dec 19
+    severity: high
+    first_patched: 2.17.0
+  - name: Improper Input Validation and Injection in Apache Log4j2
+    cve_id: CVE-2021-44832
+    cve_url: https://github.com/advisories/GHSA-8489-44mv-ggj8
+    detected_date: Jan 5
+    severity: moderate
+    first_patched: 2.17.1
+- name: com.amazonaws:aws-java-sdk-s3
+  description: The AWS Java SDK for Amazon S3 module holds the client classes that
+    is used for communicating with Amazon Simple Storage Service
+  version: 1.12.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+  vulnerabilities:
+  - name: 'Partial Path Traversal in com.amazonaws:aws-java-sdk-s3 '
+    cve_id: CVE-2022-31159
+    cve_url: https://github.com/advisories/GHSA-c28r-hw5m-5gv3
+    detected_date: Jul 16
+    severity: high
+    first_patched: 1.12.261
+- name: com.fasterxml.jackson.core:jackson-databind
+  description: 'General data-binding functionality for Jackson: works on core streaming
+    API'
+  version: 2.12.4
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+  vulnerabilities:
+  - name: Uncontrolled Resource Consumption in FasterXML jackson-databind
+    cve_id: CVE-2022-42004
+    cve_url: https://github.com/advisories/GHSA-rgv9-q543-rqg4
+    detected_date: Oct 5
+    severity: high
+    first_patched: 2.12.7.1
+  - name: Uncontrolled Resource Consumption in Jackson-databind
+    cve_id: CVE-2022-42003
+    cve_url: https://github.com/advisories/GHSA-jjjh-jjxp-wpff
+    detected_date: Oct 5
+    severity: high
+    first_patched: 2.12.7.1
+  - name: jackson-databind possible Denial of Service if using JDK serialization to
+      serialize JsonNode
+    cve_id: CVE-2021-46877
+    cve_url: https://github.com/advisories/GHSA-3x8x-79m2-3w2w
+    detected_date: Mar 21
+    severity: high
+    first_patched: 2.12.6
+  - name: Deeply nested json in jackson-databind
+    cve_id: CVE-2020-36518
+    cve_url: https://github.com/advisories/GHSA-57j2-w4cx-62h2
+    detected_date: Mar 23
+    severity: high
+    first_patched: 2.12.6.1
+- name: com.google.oauth-client:google-oauth-client
+  description: Google OAuth Client Library for Java
+  version: 1.31.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app4/pom.xml
+  detection_source: microservices/app4/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+  vulnerabilities:
+  - name: google-oauth-java-client improperly verifies cryptographic signature
+    cve_id: CVE-2021-22573
+    cve_url: https://github.com/advisories/GHSA-hw42-3568-wj87
+    detected_date: Apr 10
+    severity: high
+    first_patched: 1.33.3
+  - name: 'Duplicate Advisory: Improper Verification of Cryptographic Signature in
+      google-oauth-java-client'
+    cve_id:
+    cve_url: https://github.com/advisories/GHSA-xh97-72ww-2w58
+    detected_date: Jun 10
+    severity: high
+    first_patched: 1.33.3
+- name: com.google.guava:guava
+  description: Guava is a suite of core and expanded libraries that include utility
+    classes
+  version: '31.1'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+  vulnerabilities:
+  - name: Guava vulnerable to insecure use of temporary directory
+    cve_id: CVE-2023-2976
+    cve_url: https://github.com/advisories/GHSA-7g45-4rm6-3mm3
+    detected_date: Jun 15
+    severity: moderate
+    first_patched: 32.0.0-android
+  - name: Information Disclosure in Guava
+    cve_id: CVE-2020-8908
+    cve_url: https://github.com/advisories/GHSA-5mg8-w23w-74h3
+    detected_date: Aug 22
+    severity: low
+    first_patched: 32.0.0-android
+- name: com.nimbusds:nimbus-jose-jwt
+  description: Java library for Javascript Object Signing and Encryption
+  version: '9.1'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+  vulnerabilities:
+  - name: Denial of Service in Connect2id Nimbus JOSE+JWT
+    cve_id: CVE-2023-52428
+    cve_url: https://github.com/advisories/GHSA-gvpg-vgmx-xg6w
+    detected_date: Mar 16
+    severity: moderate
+    first_patched: 9.37.2
+- name: junit:junit
+  description: JUnit is a unit testing framework for Java
+  version: '4.13'
+  license: EPL-1.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+  vulnerabilities:
+  - name: TemporaryFolder on unix-like systems does not limit access to created files
+    cve_id: CVE-2020-15250
+    cve_url: https://github.com/advisories/GHSA-269g-pwp5-87pp
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 4.13.1
+- name: org.apache.commons:commons-io
+  description: Commons-IO contains utility classes
+  version: 1.3.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app10/pom.xml
+  detection_source: microservices/app10/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+  vulnerabilities:
+  - name: Path Traversal and Improper Input Validation in Apache Commons IO
+    cve_id: CVE-2021-29425
+    cve_url: https://github.com/advisories/GHSA-gwrp-pvrq-jmwv
+    detected_date: Feb 15
+    severity: moderate
+    first_patched:
+- name: com.amazonaws:aws-java-sdk-cloudwatch
+  description: The AWS Java SDK for Amazon CloudWatch module holds the client classes
+    that are used for communicating with Amazon CloudWatch Service
+  version: 1.12.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: com.amazonaws:aws-java-sdk-lambda
+  description: The AWS Java SDK for AWS Lambda module holds the client classes that
+    are used for communicating with AWS Lambda Service
+  version: 1.12.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: com.amazonaws:aws-java-sdk-sqs
+  description: The AWS Java SDK for Amazon SQS module holds the client classes that
+    are used for communicating with Amazon Simple Queue Service
+  version: 1.12.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: com.auth0:java-jwt
+  description: Java implementation of JSON Web Token
+  version: 3.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: com.fasterxml.jackson.dataformat:jackson-dataformat-xml
+  description: Data format extension for Jackson
+  version: 2.10.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs-eai/pom.xml
+  detection_source: libs-eai/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: com.fasterxml.jackson.datatype:jackson-datatype-jsr310
+  description: Add-on module to support JSR-310
+  version: 2.13.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: com.google.api-client:google-api-client
+  description: Google APIs Client Library for Java
+  version: 1.30.10
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app4/pom.xml
+  detection_source: microservices/app4/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: com.jcraft:jsch
+  description: JSch is a pure Java implementation of SSH2
+  version: 0.1.55
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app14/pom.xml
+  detection_source: microservices/app14/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: com.querydsl:querydsl-apt
+  version: 5.0.0
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app3/pom.xml
+  detection_source: microservices/app3/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: com.zaxxer:HikariCP
+  description: Ultimate JDBC Connection Pool
+  version: 4.0.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  version: '2.7'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: commons-logging:commons-logging
+  description: Apache Commons Logging is a thin adapter allowing configurable bridging
+    to other
+  version: '1.2'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app14/pom.xml
+  detection_source: microservices/app14/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: io.jsonwebtoken:jjwt
+  description: 'Java JWT: JSON Web Token for Java and Android'
+  version: 0.9.1
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: io.springfox:springfox-swagger-ui
+  description: JSON API documentation for spring based applications
+  version: 3.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: io.springfox:springfox-swagger2
+  description: JSON API documentation for spring based applications
+  version: 3.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: javax.xml.bind:jaxb-api
+  description: JAXB
+  version: 2.3.1
+  license: CDDL-1.1,CNRI-Python-GPL-Compatible
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: mysql:mysql-connector-java
+  description: MySQL JDBC Type 4 driver
+  version: 8.0.33
+  license: GPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/pom.xml
+  detection_source: microservices/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: net.sf.jasperreports:jasperreports
+  description: JasperReports Library
+  version: 6.19.0
+  license: LGPL-2.1+
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app14/pom.xml
+  detection_source: microservices/app14/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.apache.commons:commons-lang3
+  description: Apache Commons Lang
+  version: '3.10'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.apache.commons:commons-vfs2
+  description: Apache Commons VFS is a Virtual File System library
+  version: '2.4'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app14/pom.xml
+  detection_source: microservices/app14/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.awaitility:awaitility
+  description: A Java DSL for synchronizing asynchronous operations
+  version: 3.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app5/pom.xml
+  detection_source: microservices/app5/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.bouncycastle:bcpg-jdk16
+  description: The Bouncy Castle Java API for handling the OpenPGP protocol
+  version: '1.46'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app14/pom.xml
+  detection_source: microservices/app14/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.flywaydb:flyway-core
+  description: 'Flyway: Database Migrations Made Easy'
+  version: 6.5.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/pom.xml
+  detection_source: microservices/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.imgscalr:imgscalr-lib
+  description: Imgscalr is an simple and efficient best-practices image-scaling and
+    manipulation library implemented in pure Java
+  version: '4.2'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.json:json
+  description: JSON is a light-weight, language independent, data interchange format
+  license: JSON
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.projectlombok:lombok
+  description: 'Spice up your java: Automatic Resource Management'
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs-eai/pom.xml
+  detection_source: libs-eai/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.boot:spring-boot-configuration-processor
+  description: Spring Boot Configuration Processor
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/pom.xml
+  detection_source: microservices/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.boot:spring-boot-devtools
+  description: Spring Boot Developer Tools
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/pom.xml
+  detection_source: microservices/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.boot:spring-boot-starter
+  description: Core starter
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app6/pom.xml
+  detection_source: microservices/app6/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-aop
+  description: Starter for aspect-oriented programming with Spring AOP and AspectJ
+  version: 3.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-data-jpa
+  description: Starter for using Spring Data JPA with Hibernate
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app1/pom.xml
+  detection_source: microservices/app1/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-data-mongodb
+  description: Starter for using MongoDB document-oriented database and Spring Data
+    MongoDB
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app3/pom.xml
+  detection_source: microservices/app3/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-data-redis
+  description: Starter for using Redis key-value data store with Spring Data Redis
+    and the Lettuce client
+  version: 2.4.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-mail
+  description: Starter for using Java Mail and Spring Framework's email sending support
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/app11/pom.xml
+  detection_source: microservices/app11/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-security
+  description: Starter for using Spring Security
+  version: 3.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-test
+  description: Starter for testing Spring Boot applications with libraries including
+    JUnit
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/microservices/pom.xml
+  detection_source: microservices/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-validation
+  description: Starter for using Java Bean Validation with Hibernate Validator
+  version: 2.7.18
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.boot:spring-boot-starter-web
+  description: Starter for building web, including RESTful, applications using Spring
+    MVC
+  version: 3.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs-eai/pom.xml
+  detection_source: libs-eai/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.data:spring-data-redis
+  description: Global parent pom.xml to be used by Spring Data modules
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.integration:spring-integration-jms
+  description: Spring Integration JMS Support
+  version: 6.2.2
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs-eai/pom.xml
+  detection_source: libs-eai/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.retry:spring-retry
+  description: "#&lt;Ox::CData:0x00007efddc429b78&gt;"
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework.security:spring-security-test
+  description: Spring-security-test
+  version: 5.7.11
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework:spring-aspects
+  description: Spring Aspects
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: org.springframework:spring-jms
+  description: Spring JMS
+  version: 6.1.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs-eai/pom.xml
+  detection_source: libs-eai/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: redis.clients:jedis
+  description: Jedis is a blazingly small and sane Redis java client
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/libs/pom.xml
+  detection_source: libs/pom.xml
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
+- name: cocoapods
+  description: CocoaPods manages library dependencies for your Xcode project
+  package_url: https://rubygems.org/cocoapods
+  version: 1.12.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: RubyGems Packages
+  image_url: https://img.stackshare.io/package/19189/default_2266a6c0e2693d55b1999a7c5db4be13e5720232.png
+  detection_source_url: https://github.com/ounghuy/techstack/blob/main/app/Gemfile.lock
+  detection_source: app/Gemfile
+  last_updated_by: Huy Oung
+  last_updated_on: 2024-05-08 07:45:47.000000000 Z
